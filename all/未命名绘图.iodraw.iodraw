@@ -98,6 +98,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2pWC-jEKUmOab3wSqRsS-0" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
