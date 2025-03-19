@@ -206,10 +206,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-57" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;超出范围&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="420" width="60" height="20" as="geometry" />
+          <mxGeometry x="80.03" y="420" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jcNhXLncHz-f5GXoKbHZ-58" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;超出范围&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300.03" y="420" width="60" height="20" as="geometry" />
+        <mxCell id="jcNhXLncHz-f5GXoKbHZ-58" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;下超范围&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="420" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
