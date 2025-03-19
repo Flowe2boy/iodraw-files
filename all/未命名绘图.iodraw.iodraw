@@ -7,10 +7,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="90" y="360" as="targetPoint" />
+            <mxPoint x="60" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="70" y="210" />
-              <mxPoint x="70" y="360" />
+              <mxPoint x="90" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
