@@ -177,8 +177,8 @@
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-52" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;e&lt;/span&gt;&lt;sub style=&quot;text-wrap: wrap;&quot;&gt;b&lt;/sub&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&amp;lt;e&lt;/span&gt;&lt;sub style=&quot;text-wrap: wrap;&quot;&gt;a&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80.03" y="460" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jcNhXLncHz-f5GXoKbHZ-53" value="浮点数a尾数右移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="380.03" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="jcNhXLncHz-f5GXoKbHZ-53" value="尾数左移&lt;div&gt;指数减一&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="353" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-54" value="浮点数b尾数右移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-59.97" y="420" width="120" height="60" as="geometry" />
