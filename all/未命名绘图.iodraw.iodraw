@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry x="0.0115" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -72,7 +72,7 @@
             <mxRectangle width="31" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jcNhXLncHz-f5GXoKbHZ-22" value="指数位e&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sub&gt;a，&lt;/sub&gt;&lt;/span&gt;e&lt;sub&gt;b&lt;/sub&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="jcNhXLncHz-f5GXoKbHZ-20">
+        <mxCell id="jcNhXLncHz-f5GXoKbHZ-22" value="指数e&lt;span style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sub&gt;a，&lt;/sub&gt;&lt;/span&gt;e&lt;sub&gt;b&lt;/sub&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="jcNhXLncHz-f5GXoKbHZ-20">
           <mxGeometry x="31" width="109" height="30" as="geometry">
             <mxRectangle width="109" height="30" as="alternateBounds" />
           </mxGeometry>
