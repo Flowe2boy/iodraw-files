@@ -228,6 +228,12 @@
         <mxCell id="XnPLhM56M3q89a2Oj3SS-7" value="下超最小值" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440.03" y="400" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XnPLhM56M3q89a2Oj3SS-8" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.57" y="160" as="sourcePoint" />
+            <mxPoint x="219.57" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
