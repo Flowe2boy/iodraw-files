@@ -232,7 +232,13 @@
           <mxGeometry x="670.03" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnPLhM56M3q89a2Oj3SS-35" value="检测结果尾数" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="410" width="160" height="80" as="geometry" />
+          <mxGeometry x="140.03" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XnPLhM56M3q89a2Oj3SS-36" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.71" y="380" as="sourcePoint" />
+            <mxPoint x="219.71" y="429.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
