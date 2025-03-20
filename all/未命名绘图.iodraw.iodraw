@@ -205,7 +205,7 @@
           <mxGeometry x="-90" y="650" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-79" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160.03" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="140.03" y="90" width="149.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-80" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160.03" y="880" width="120" height="30" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry x="220" y="410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XnPLhM56M3q89a2Oj3SS-0" value="A与B指数执行加/减法运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="150" width="150" height="60" as="geometry" />
+          <mxGeometry x="140" y="150" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
