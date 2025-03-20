@@ -135,10 +135,10 @@
           <mxGeometry x="380.05999999999995" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-73" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="490.05999999999995" y="525" width="40" height="30" as="geometry" />
+          <mxGeometry x="509.99999999999994" y="525" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-74" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450.05999999999995" y="635" width="40" height="30" as="geometry" />
+          <mxGeometry x="439.99999999999994" y="635" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-75" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-49.94" y="635" width="40" height="30" as="geometry" />
