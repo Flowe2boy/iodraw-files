@@ -225,6 +225,9 @@
         <mxCell id="jcNhXLncHz-f5GXoKbHZ-83" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;e&lt;/span&gt;&lt;sub style=&quot;text-wrap: wrap;&quot;&gt;a&lt;/sub&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;e&lt;/span&gt;&lt;sub style=&quot;text-wrap: wrap;&quot;&gt;b&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="410" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XnPLhM56M3q89a2Oj3SS-0" value="指数执行加/减法运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
